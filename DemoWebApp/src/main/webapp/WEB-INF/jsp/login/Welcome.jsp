@@ -19,7 +19,10 @@
 <table style="width: 90%;">
 	<tr>
 		<td>
-			<img alt="Newt Global DevOps Demo" src="../images/header.jpg" style="border: none;">
+			<img alt="Newt Global DevOps Demo" src="/images/header.jpg" style="border: none;">
+			<img alt="Newt Global DevOps Demo" src="/images/jenkins.png" style="border: none;">
+			<img alt="Newt Global DevOps Demo" src="/images/jenkins.jpg" style="border: none;">
+			<img src="<c:url value="images/header.jpg"/>"/>
 		</td>		
 	</tr>
 	<tr>
